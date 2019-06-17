@@ -1,0 +1,24 @@
+{
+  "name": "comp-2068-blogMonday",
+  "version": "1.0.0",
+  "description": "Blogging project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krupeshkumar/comp-2068-blogMonday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krupeshkumar/comp-2068-blogMonday/issues"
+  },
+  "homepage": "https://github.com/Krupeshkumar/comp-2068-blogMonday#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
